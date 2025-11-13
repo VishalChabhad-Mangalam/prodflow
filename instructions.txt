@@ -1,0 +1,5 @@
+I have updated the Vite configuration to resolve the PostCSS issue. This should fix the error you were seeing.
+
+I recommend you delete the now redundant `postcss.config.js` and `postcss.config.mjs` files.
+
+Please run `npm run dev` in the `c:\prodflow\frontend` directory to start the development server and see if the issue is resolved.
